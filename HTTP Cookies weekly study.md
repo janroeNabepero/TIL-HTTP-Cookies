@@ -16,4 +16,9 @@ Oct 30, 2021
 (3) First-Party Cookies - used by online shopping sites, without it, the site would NOT remember previous items in shopping cart and would treat every item added as a new transaction
 (4) Third-Party Cookies - generated when a user clicks an ad on a website they are visiting, the cookie associates user traffic with the site that showed the ad
 
+Nov 4, 2021
+・ Protecting online privacy: (1) Check browser’s privacy and security settings. Change browser’s cookie policies to meet preferred level of privacy. Take note that cookies make it easier to access certain features on different websites.
+
+Nov 5, 2021
+・ Protecting online privacy: (2 ) Browse on Incognito mode. Most modern browsers provide a feature to browse the internet without any cookies. In this regard, when browsing, existing persistent cookies will not be used. Additionally, any persistent cookies created while browsing will be instantly deleted upon closing the browser.
 
