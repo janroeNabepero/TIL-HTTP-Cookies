@@ -28,10 +28,16 @@ Nov 11, 2021
 Nov 12, 2021
 ・ Chrome dev tools > Application > Cookies // see cookies
 
-Novemeber 18, 2021
+Nov 18, 2021
 ・ Cookies can travel over AJAX requests. They can be travel back and forth between frontend and backend as long as the frontend and the backend are on the same origin. 
 ・ An origin consists of a scheme, domain, and port number. http://localhost:8000/ is of a different origin from http://localhost:42091/ (different port numbers)
 
-Novemeber 19, 2021
+Nov 19, 2021
 ・ Secure attribute: makes sure that a cookie is never accepted if the connection is NOT HTTPS. Unless the connection is HTTPS, the browser rejects secure cookies.
 ・ javascript progress bars
+
+Nov 25, 2021
+・ The HttpOnly cookie attribute makes the cookie inaccessible using javascript. This protects against XSS (cross-site scripting) attacks.
+
+Nov 26, 2021
+・ Third-party cookies triggers a pop up warning in Chrome. The browser requires the cookie to have the SameSite attribute. This is aims to improve security, mainly, preventing CSRF attacks
